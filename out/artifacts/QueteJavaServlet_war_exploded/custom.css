@@ -1,0 +1,15 @@
+body {
+    background: lightcoral;
+}
+
+h1 {
+    text-align: center;
+    color: darkcyan;
+    size: 100px;
+}
+
+
+p {
+    color: gainsboro;
+    text-align: center;
+}
